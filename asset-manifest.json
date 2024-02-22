@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/fobing/static/css/main.fe927caf.css",
-    "main.js": "/fobing/static/js/main.7c4970b2.js",
+    "main.js": "/fobing/static/js/main.e5dc6955.js",
     "static/js/787.4b24f717.chunk.js": "/fobing/static/js/787.4b24f717.chunk.js",
     "static/media/hashirshoaeb.png": "/fobing/static/media/hashirshoaeb.23e8b5a1f7de87f03d05.png",
     "static/media/fobing.png": "/fobing/static/media/fobing.68d5041da9ed75a0b463.png",
-    "static/media/tieyizhong.png": "/fobing/static/media/tieyizhong.2bc3fa4738f4f5c1b5b6.png",
-    "static/media/shanxiwentou.png": "/fobing/static/media/shanxiwentou.5b8beb10623c96750b5d.png",
-    "static/media/xiwai.png": "/fobing/static/media/xiwai.f137b378ed868178ebe1.png",
-    "static/media/nananpudun.png": "/fobing/static/media/nananpudun.3cef2083cd75395e2d80.png",
+    "static/media/tieyizhong.png": "/fobing/static/media/tieyizhong.af2651d074ea1f212333.png",
+    "static/media/xiwai.png": "/fobing/static/media/xiwai.70629cd8c22943e6cb71.png",
+    "static/media/shanxiwentou.png": "/fobing/static/media/shanxiwentou.475f8ed2924a66f3b9bb.png",
+    "static/media/nananpudun.png": "/fobing/static/media/nananpudun.f248326daf0df1c3214f.png",
     "index.html": "/fobing/index.html",
     "main.fe927caf.css.map": "/fobing/static/css/main.fe927caf.css.map",
-    "main.7c4970b2.js.map": "/fobing/static/js/main.7c4970b2.js.map",
+    "main.e5dc6955.js.map": "/fobing/static/js/main.e5dc6955.js.map",
     "787.4b24f717.chunk.js.map": "/fobing/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe927caf.css",
-    "static/js/main.7c4970b2.js"
+    "static/js/main.e5dc6955.js"
   ]
 }
